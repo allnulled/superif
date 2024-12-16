@@ -86,5 +86,3 @@ superif.removeAction("isEven");
 // Ejecutar nuevamente con una acción menos
 superif.execute(44);
 ```
-
-# superif
